@@ -17,7 +17,7 @@ Hey, I'm Alex, a passionate software developer based in the beautiful country of
   
   <br>
   
-  [![My Skills](https://skillicons.dev/icons?i=flutter,angular,ts,js,html,css,cs,dotnet,supabase,firebase,gcp,azure,raspberrypi,vscode,visualstudio)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=flutter,angular,ts,js,html,css,cs,dotnet,supabase,firebase,gcp,azure,raspberrypi,vscode,visualstudio)](https://skillicons.dev)
 
 
 ## My Projects
