@@ -19,27 +19,6 @@ Hey, I'm Alex, a passionate software developer based in the beautiful country of
   
 [![My Skills](https://skillicons.dev/icons?i=flutter,angular,ts,js,html,css,cs,dotnet,supabase,firebase,gcp,azure,raspberrypi,vscode,visualstudio)](https://skillicons.dev)
 
-
-## My Projects
-
-I'm the owner of [waio.ch](https://waio.ch), and my primary focus is on snaptab, a dedicated platform meticulously crafted to simplify the lives of skilled handymen and professionals across various trades. This innovative solution aims to streamline their daily tasks, enhancing productivity and efficiency.
-
-### snaptab - Simplifying Work for Handymen 🔧
-
-At [snaptab](https://snaptab.ch), we understand the unique challenges faced by handymen and professionals in the field. That's why we've developed a comprehensive solution to streamline their work processes, from managing appointments to tracking project progress.
-
-#### Mobile Apps
-
-We've taken snaptab a step further by offering dedicated mobile apps for both iOS and Android platforms. These apps provide on-the-go access to essential tools and resources, allowing handymen to work more efficiently and effectively.
-
-- 📱 [Download snaptab for iOS](https://apps.apple.com/vn/app/snaptab/id1632397394)
-- 📱 [Download snaptab for Android](https://play.google.com/store/apps/details?id=ch.waio.snaptab)
-- 📱 [Download snaptab for Huawei](https://appgallery.huawei.com/app/C107547313)
-
-Feel free to explore snaptab and our mobile apps to see how we're revolutionizing the way handymen work.
-
-
-
 ## Get in Touch
 
 I'm always open to collaboration and connecting with fellow developers. If you have any questions, ideas, or just want to say hello, don't hesitate to reach out:
