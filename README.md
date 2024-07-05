@@ -23,7 +23,7 @@ Hey, I'm Alex, a passionate software developer based in the beautiful country of
 
 I'm always open to collaboration and connecting with fellow developers. If you have any questions, ideas, or just want to say hello, don't hesitate to reach out:
 
-- 📧 Email: [alex.frei@waio.ch](mailto:alex.frei@waio.ch)
+- 📧 Email: [alex.frei@hotmail.ch](mailto:alex.frei@hotmail.ch)
 - 💼 LinkedIn: [Alex-Frei](https://www.linkedin.com/in/alex-frei-01b016202/)
 - 🐦 Twitter: [@Frei2100](https://twitter.com/Frei2100)
 
