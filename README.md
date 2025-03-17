@@ -25,6 +25,7 @@ I'm always open to collaboration and connecting with fellow developers. If you h
 
 - 📧 Email: [alex.frei@hotmail.ch](mailto:alex.frei@hotmail.ch)
 - 🐦 Twitter: [@Frei2100](https://twitter.com/Frei2100)
+- 📩 Telegram: [@hm2100](https://t.me/hm2100)
 
 Let's code, learn, and build amazing things together! 🚀
 
