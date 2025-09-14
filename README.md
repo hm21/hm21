@@ -4,16 +4,9 @@
 
 ## About Me
 
-Hey, I'm Alex, a passionate software developer based in the beautiful country of Switzerland 🇨🇭. I thrive on turning ideas into elegant and functional software solutions. Whether it's web development, mobile apps, or tinkering with the latest tech gadgets, I'm always eager to learn and create.
+I'm a Full Stack Developer with a background in electrical engineering and a passion for building high-performance web and mobile applications. I am the sole developer of the app snaptab and the maintainer of the Flutter open-source libraries pro_image_editor and pro_video_editor.
 
-## What I Do
-
-- 🌐 I specialize in web development, with expertise in technologies like Angular, TypeScript, JavaScript, HTML, and CSS.
-- 📱 Flutter has been my go-to framework for crafting stunning cross-platform mobile applications.
-- 💻 I have a knack for backend development, working with technologies like Firebase, Supabase and .NET.
-- ☁️ In the cloud computing realm, I'm well-versed in GCP (Google Cloud Platform) and Azure.
-- 🌟 I enjoy hardware tinkering, especially with Raspberry Pi projects, where I leverage the power of .NET IoT to create innovative solutions.
-- 🛠️ My favorite coding companions are Visual Studio Code and Visual Studio.
+👉 You can read more about me and my projects on my [personal website](https://alex-frei.web.app).
   
   <br>
   
