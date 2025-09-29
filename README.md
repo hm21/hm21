@@ -23,6 +23,7 @@ For companies outside of Switzerland: please note that Swiss salaries are the be
 
 I'm always open to collaboration and connecting with fellow developers. If you have any questions, ideas, or just want to say hello, don't hesitate to reach out:
 
+- 🌐 Website: [alex-frei.web.app](https://alex-frei.web.app/contact)  
 - 📧 Email: [alex.frei@hotmail.ch](mailto:alex.frei@hotmail.ch)
 - 🐦 Twitter: [@Frei2100](https://twitter.com/Frei2100)
 - 📩 Telegram: [@hm2100](https://t.me/hm2100)
