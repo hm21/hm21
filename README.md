@@ -12,19 +12,19 @@ I'm a Full Stack Developer with a background in electrical engineering and a pas
   
 [![My Skills](https://skillicons.dev/icons?i=flutter,angular,ts,js,html,css,cs,dotnet,supabase,firebase,gcp,azure,raspberrypi,vscode,visualstudio)](https://skillicons.dev)
 
-## 💼 Hire Me
+<!--## 💼 Hire Me
 
 I am available for hire in **Switzerland** 🇨🇭.  
 If you’re looking for a dedicated developer with expertise in Flutter, Angular, and full-stack development, feel free to reach out using the contact options below.
 
-For companies outside of Switzerland: please note that Swiss salaries are the benchmark for my work. Remote collaborations are possible, but compensation should reflect Swiss market standards.
+For companies outside of Switzerland: please note that Swiss salaries are the benchmark for my work. Remote collaborations are possible, but compensation should reflect Swiss market standards. -->
 
 ## 🤝 Get in Touch
 
 I'm always open to collaboration and connecting with fellow developers. If you have any questions, ideas, or just want to say hello, don't hesitate to reach out:
 
-- 🌐 Website: [alex-frei.web.app](https://alex-frei.web.app/contact)  
-- 📧 Email: [alex.frei@hotmail.ch](mailto:alex.frei@hotmail.ch)
+<!--- 🌐 Website: [alex-frei.web.app](https://alex-frei.web.app/contact)  
+- 📧 Email: [alex.frei@hotmail.ch](mailto:alex.frei@hotmail.ch)-->
 - 🐦 Twitter: [@Frei2100](https://twitter.com/Frei2100)
 - 📩 Telegram: [@hm2100](https://t.me/hm2100)
 
